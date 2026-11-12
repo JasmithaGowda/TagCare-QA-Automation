@@ -52,6 +52,8 @@ The objective is to validate application functionality, API responses, data cons
 5. Run authentication tests
 > pytest -v -s tests/test_auth.py
 
+start time : 11:20 AM
+end time: 1:27 PM
 
 # Conclusion
 API and UI automation testing was performed to identify functional, validation, pagination, data consistency, and security issues. The identified defects were documented with their reproduction steps and corresponding automated test cases.
